@@ -1,4 +1,4 @@
-package de.bsohef.programming.java.examples.hello;
+package de.bsohef.programming.java.examples.hellostudent;
 
 public class HelloStudent {
 
